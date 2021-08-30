@@ -35,7 +35,9 @@ and many functions to interact with the list such as:
 
 ##### Online Compiler
 
-Copy-paste code from node.h, linkedlist.h and test.cpp into an online C++ compiler. I would recommend this [website](https://www.onlinegdb.com/online_c++_compiler) and press run.
+Copy-paste code from node.h, linkedlist.h and test.cpp into an online C++ compiler - I would recommend this [website](https://www.onlinegdb.com/online_c++_compiler)
+
+Then, press run.
 
 
 <div align = "center">
