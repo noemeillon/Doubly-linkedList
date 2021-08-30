@@ -49,7 +49,7 @@ class NodeIterator {
             return this->current == itr.getNode();
         }
 
-        // Check if two iterators point todifferent elements
+        // Check if two iterators point to different elements
         bool operator!=(NodeIterator<T> itr) {
             return this->current != itr.getNode();
         }
