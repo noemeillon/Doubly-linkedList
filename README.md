@@ -33,24 +33,22 @@ and many functions to interact with the list such as:
   
 ### How to run the program
 
-
 ##### Online Compiler
 
-Copy-paste the stringBuilder.java code into an online Java compiler. I would recommend this [website](https://www.jdoodle.com/online-java-compiler/).
+Copy-paste code from node.h, linkedlist.h and test.cpp into an online C++ compiler. I would recommend this [website](https://www.onlinegdb.com/online_c++_compiler) and press run.
 
-Input the different parameters (target string, cloning cost, appending cost) you wont to run the program with in the CommandLine Arguments field (see exemple below).
 
 <div align = "center">
-     <img src = "https://user-images.githubusercontent.com/39555683/129485159-377b9648-af67-485c-9c3c-70997ab8fb5c.png" />
+     <img src = "https://user-images.githubusercontent.com/39555683/131363261-b2b1765a-109c-4f19-89bf-c360f446c460.png" />
 </div>
 
 ##### Local Compiler
 
-You can copy-paste stringBuilder.java in a existing java project to run it.
+You can clone the following repository to run it on your local machine.
 
-Then run the following commands (in this case abcdefghabcdefgh is the target string, 2 is the cloning cost and 4 is the appending cost):
+Then run the following commands:
 
 <div align = "center">
-     <img src = "https://user-images.githubusercontent.com/39555683/129485211-41d4d468-ae31-4977-981e-b3755b73e481.png" />
-     <img src = "https://user-images.githubusercontent.com/39555683/129485214-dc6f23dc-90d8-4d9a-af05-bac2690d32f4.png" />
+     <img src = "https://user-images.githubusercontent.com/39555683/131363878-67f579af-c14f-4217-886f-c3b32285d309.png" />
+     <img src = "https://user-images.githubusercontent.com/39555683/131364100-c8ec88f6-01e6-4fdc-bfaf-56b05595f175.png" />
 </div>
