@@ -30,7 +30,7 @@ void test1() {
       cout << " " << n;
     }
     
-    cout << " }\n";
+    cout << " } \n";
   }
 }
 
